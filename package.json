@@ -1,0 +1,21 @@
+{
+  "name": "sand-purple",
+  "displayName": "sand_purple",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sand Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sand Purple-color-theme.json"
+      }
+    ]
+  }
+}
