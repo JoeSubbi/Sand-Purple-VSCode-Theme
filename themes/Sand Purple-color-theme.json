@@ -920,7 +920,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#525280",	// 6A9955
+				"foreground": "#7272a1b0",	// 6A9955
 				"fontStyle": "italic"
 			}
 		},
