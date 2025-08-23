@@ -1,7 +1,8 @@
 {
   "name": "sand-purple",
-  "displayName": "sand_purple",
-  "description": "",
+  "displayName": "Sand Purple",
+  "description": "A theme based on VSCodes Dark Modern default theme but pushed in towards purples and blues.",
+  "icon" : "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
