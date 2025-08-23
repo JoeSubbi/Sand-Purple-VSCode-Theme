@@ -1,5 +1,6 @@
 {
 	"name": "Sand Purple",
+	"semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBorder": "#8573c5", //0078d4
